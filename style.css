@@ -224,7 +224,7 @@ button:hover {
 
 @media (max-width: 600px) {
     :root {
-        --clock-size: 25vw; /* Adjust as needed */
+        --clock-size: 30vw; /* Adjust as needed */
     } 
     {
     .button-container {
