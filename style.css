@@ -223,6 +223,10 @@ button:hover {
 }
 
 @media (max-width: 600px) {
+    :root {
+        --clock-size: 25vw; /* Adjust as needed */
+    } 
+    {
     .button-container {
         display: flex;
         flex-direction: column;
